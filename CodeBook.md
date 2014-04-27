@@ -76,6 +76,8 @@ The complete list of variables of each feature vector is available in 'features.
 
 
 ### features.txt
+
+```
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
@@ -637,3 +639,4 @@ The complete list of variables of each feature vector is available in 'features.
 559 angle(X,gravityMean)
 560 angle(Y,gravityMean)
 561 angle(Z,gravityMean)
+```
